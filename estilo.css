@@ -4,4 +4,44 @@ height: 37px;
 flex-shrink: 0;
 background: #AA00FA;
 }
-menu-texto
+menu-texto{
+    width: 232px;
+height: 19px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 15px; /* 107.143% */
+}
+.cabeçalho{
+    width: 1440px;
+height: 231px;
+flex-shrink: 0;
+background: linear-gradient(180deg, #AA00FA 0%, #000 100%);
+}
+.cabeçalho-imagem{
+    width: 231px;
+height: 199px;
+flex-shrink: 0;
+}
+.cabeçalho-texto{
+    width: 741px;
+height: 95px;
+flex-shrink: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 15px; /* 46.875% */
+}
+.corpo{
+    width: 1454px;
+height: 647px;
+flex-shrink: 0;
+background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+}
+.corpo-imagem{}
